@@ -1,7 +1,11 @@
-const hello = ()=>{
+const first = ()=>{
     console.log("Hello!");
 }
 
-const NICE = ()=>{
+const second = ()=>{
+    console.log("Hello!");
+}
+
+const third = ()=>{
     console.log("Hello!");
 }
